@@ -24,10 +24,10 @@ gems:
   - jekyll-feed
 
 
-# Site owner
+# Dono do site
 owner:
-  name:
-  email:
+  name: Raul Campos Nascimento      
+  email: rautopiaa@gmail.com
   twitter:
   google:
     ad-client:
